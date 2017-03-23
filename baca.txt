@@ -1,0 +1,9 @@
+ini adalah aplikasi nodejs express js dan mysql
+
+cara nya 
+  untuk gunakan
+    ketikkan 
+     npm install
+
+utnuk run node app.js
+atau nodemon di folder sudah ada cara routing , koneksi mysql nya jg cek ajah
